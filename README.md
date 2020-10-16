@@ -15,10 +15,29 @@
 >> Resumo do projeto (Empresa, cliente, usuário final, prazos, orçamento).
 >
 
-
 ## 02 - Organização
+> Sketching -> Método rápido de baixa fidelidade.(Esqueleto)
+>> Feito no papel, pode conter fluxo de uso.
+>
+> Sitemap -> Papel do AI(arquiteto da Informação)
+>> Jornada do usuário
+>
+>> Feito no [Mockflow](http://www.mockflow.com/) 
+>>
+>>Ferramenta Online
+> [Mockflow do meu site](https://sitemap.mockflow.com/view/Maac3d2930c3943e29abe2f3ea7c697a91600362920753)
+>
+> Wireframe -> Já utiliza elementos do ambiente digital.
+>> Pode ser de baixa ou alta fidelidade
 
 ## 03 - Estruturação e Layout
+> Mobile First
+>
+> Formas e estrutura
+>
+>Tipografia -> Google Fonts
+>
+> Ìcones -> Font-awesome
 
 ## 04 - Layout 2
 
