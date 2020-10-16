@@ -40,6 +40,29 @@
 > Ìcones -> Font-awesome
 
 ## 04 - Layout 2
+> Cores
+>> Paleta de cores
+> Logo
+>Heurística de Nielsen
+>>1.Feedback
+>
+>>2.Compatibilidade entre o sistema e o mundo real
+>
+>>3.Controle e liberdade para o usuário
+>
+>>4.Consistência e padronização.
+>
+>>5.Prevenção de erros.
+>
+>>6.Reconhecimento ao invés de memorização
+>
+>>7.Eficiência e flexibilidade de uso
+>
+>>8.Estética e design minimalista.
+>
+>9.Ajudar o usuário a reconhecer, diagnosticar e reparar erros
+>
+>>10.Ajuda e documentação
 
 ## 05 - Finalização e prototipagem
 
