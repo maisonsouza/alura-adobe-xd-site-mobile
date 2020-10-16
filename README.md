@@ -42,8 +42,11 @@
 ## 04 - Layout 2
 > Cores
 >> Paleta de cores
+>
 > Logo
+>
 >Heurística de Nielsen
+>
 >>1.Feedback
 >
 >>2.Compatibilidade entre o sistema e o mundo real
@@ -65,5 +68,9 @@
 >>10.Ajuda e documentação
 
 ## 05 - Finalização e prototipagem
+> 
+> Prototipagem
+>
 
 ### Certificado
+[Certificado](https://cursos.alura.com.br/certificate/5842128a-6d1f-4fd8-961c-f5337355a3fa)
